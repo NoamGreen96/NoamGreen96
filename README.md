@@ -5,6 +5,8 @@
 <h3 align="center">A Frontend | Full Stack Web Developer developer from Israel</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noamgreen96&label=Profile%20views&color=0e75b6&style=flat" alt="noamgreen96" /> </p
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRpbzBpYmIyejhsZHZoZXM3ZzU3emFxbWNzN2Fyam9pejF2dzRwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRpbzBpYmIyejhsZHZoZXM3ZzU3emFxbWNzN2Fyam9pejF2dzRwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 - 🔭 I’m currently working on **profilio**
 
@@ -20,7 +22,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/noam-green" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noam-green" height="30" width="40" /></a>
 <a href="https://discord.gg/idontknowhattowrite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="idontknowhattowrite" height="30" width="40" /></a>
+
 </p>
+
 
 <h3 align="left">💻 Tech Stack:</h3>
 
