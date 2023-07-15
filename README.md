@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**NoamGreen96/NoamGreen96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Noam, a Frontend/Full Stack Web Developer with proven experience in writing single-page applications using the latest web technologies, including React.js, Redux, Node.js, and MongoDB. I have graduated from Coding Academy, an intensive coding bootcamp (640 hours) that qualifies Full Stack developers.
 
-Here are some ideas to get you started:
+Skills
+Frontend:
+React
+Vue.js
+Angular
+JavaScript (ES6+)
+HTML5
+CSS3/SCSS
+Redux
+Backend:
+Node.js
+Express.js
+Databases:
+MongoDB
+SQL
+Tools:
+Git
+Education
+Full Stack Developer Bootcamp — Coding Academy
+Learned and applied frontend skills such as HTML, CSS, JavaScript, React, as well as backend skills like Node.js, Express, and MongoDB/SQL databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about web development, frontend frameworks, or anything related to programming! I'm always eager to learn and share knowledge.
+
+📫 Feel free to contact me through email at Noamgr11@gmail.com.
